@@ -1,0 +1,207 @@
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:45:56"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:45:56"}
+{"level":"error","message":"userService.getAllUsers is not a function","timestamp":"2023-07-25 18:46:44"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:48:45"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:48:45"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:48:47"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:48:47"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-25 18:48:51"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:49:24"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:49:24"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:49:56"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:49:56"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:50:00"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:50:00"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:50:05"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:50:05"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-25 18:50:08"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:50:25"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:50:25"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:50:50"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:50:50"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-25 18:50:52"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:51:09"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:51:09"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:51:19"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:51:19"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:51:21"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:51:21"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:51:23"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:51:23"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-25 18:51:24"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:51:54"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:51:54"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-25 18:51:55"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:52:05"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:52:05"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:52:09"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:52:09"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:52:14"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:52:14"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-25 18:52:16"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:52:29"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:52:29"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-25 18:52:30"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:53:28"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:53:28"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:53:36"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:53:36"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-25 18:53:45"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:54:28"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:54:28"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:54:32"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:54:32"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:54:38"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:54:38"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:54:44"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:54:44"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-25 18:54:50"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:55:04"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:55:04"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:55:07"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:55:07"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:55:22"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:55:22"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:55:25"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:55:25"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:55:31"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:55:31"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:55:47"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:55:47"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:56:19"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:56:19"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:56:22"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:56:22"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:56:24"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:56:24"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:56:30"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:56:30"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:56:32"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:56:32"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-25 18:56:34"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:56:58"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:56:58"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:57:02"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:57:02"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-25 18:57:03"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:57:37"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:57:37"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:57:42"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:57:42"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:57:46"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:57:46"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:57:48"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:57:48"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:57:59"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:57:59"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:58:05"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:58:05"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-25 18:58:06"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 18:59:05"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 18:59:05"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:01:02"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:01:02"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-25 19:01:06"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:01:37"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:01:37"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:01:39"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:01:39"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:01:41"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:01:41"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:01:43"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:01:43"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-25 19:01:44"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:02:18"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:02:18"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-25 19:02:19"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:02:50"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:02:50"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-25 19:02:55"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:03:08"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:03:08"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-25 19:03:09"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:03:22"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:03:22"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:03:25"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:03:25"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:03:30"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:03:30"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-25 19:03:31"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:03:40"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:03:40"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-25 19:03:41"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:03:50"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:03:50"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:03:53"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:03:53"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:03:58"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:03:58"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:04:04"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:04:04"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:04:13"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:04:13"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:04:25"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:04:25"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:04:28"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:04:28"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-25 19:04:29"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:04:51"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:04:51"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:04:57"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:04:58"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-25 19:04:58"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:05:06"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:05:06"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-25 19:05:08"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:05:20"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:05:20"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-25 19:05:29"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:05:58"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:05:58"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:06:00"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:06:00"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-25 19:06:01"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:06:31"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:06:31"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:06:38"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:06:38"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:09:03"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:09:03"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:09:05"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:09:05"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:10:08"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:10:08"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:10:13"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:10:13"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:10:18"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:10:18"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:10:21"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:10:21"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:10:25"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:10:25"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:10:26"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:10:26"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:10:34"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:10:34"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:10:37"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:10:37"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:10:39"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:10:39"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:10:40"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:10:40"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:10:43"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:10:43"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:10:47"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:10:47"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:10:49"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:10:49"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:10:50"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:10:50"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:10:54"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:10:54"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:10:56"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:10:56"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:10:59"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:10:59"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-25 19:11:28"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-25 19:11:28"}

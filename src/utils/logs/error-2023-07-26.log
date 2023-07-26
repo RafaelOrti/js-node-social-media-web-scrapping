@@ -1,0 +1,156 @@
+{"level":"error","message":"Error al crear o verificar la colección \"users\": collectionExists is not defined","timestamp":"2023-07-26 22:06:53"}
+{"level":"error","message":"Error al crear o verificar la colección \"users\": BSON field 'create.name' is an unknown field.","timestamp":"2023-07-26 22:10:09"}
+{"level":"error","message":"Error al crear o verificar la colección \"users\": BSON field 'create.name' is an unknown field.","timestamp":"2023-07-26 22:12:41"}
+{"level":"error","message":"Error al crear o verificar la colección \"users\": BSON field 'create.name' is an unknown field.","timestamp":"2023-07-26 22:13:02"}
+{"level":"error","message":"Error al ejecutar las migraciones \"up\": Error en la creación o verificación de la colección","timestamp":"2023-07-26 22:13:02"}
+{"level":"error","message":"Error al crear o verificar la colección \"users\": BSON field 'create.name' is an unknown field.","timestamp":"2023-07-26 22:14:17"}
+{"level":"error","message":"Error al ejecutar las migraciones \"up\": Error en la creación o verificación de la colección","timestamp":"2023-07-26 22:14:17"}
+{"level":"error","message":"Error al crear o verificar la colección \"users\": BSON field 'create.name' is an unknown field.","timestamp":"2023-07-26 22:14:47"}
+{"level":"error","message":"Error al ejecutar las migraciones \"up\": Error en la creación o verificación de la colección","timestamp":"2023-07-26 22:14:47"}
+{"level":"error","message":"Error al crear o verificar la colección \"users\": BSON field 'create.name' is an unknown field.","timestamp":"2023-07-26 22:20:05"}
+{"level":"error","message":"Error al ejecutar las migraciones \"up\": Error en la creación o verificación de la colección","timestamp":"2023-07-26 22:20:05"}
+{"level":"error","message":"Error al ejecutar las migraciones \"up\": config.data.map is not a function","timestamp":"2023-07-26 22:24:32"}
+{"level":"error","message":"Error al ejecutar las migraciones \"up\": config.data.map is not a function","timestamp":"2023-07-26 22:24:52"}
+{"level":"error","message":"Error al ejecutar las migraciones \"up\": config.data.map is not a function","timestamp":"2023-07-26 22:25:59"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-26 22:34:08"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-26 22:40:12"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-26 22:40:58"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-26 22:46:19"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-26 22:46:54"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-26 22:48:09"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-26 22:48:32"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-26 22:58:45"}
+{"level":"error","message":"Error getting user by ID","timestamp":"2023-07-26 23:11:48"}
+{"level":"error","message":"Error getting user by email","timestamp":"2023-07-26 23:12:02"}
+{"level":"error","message":"Error getting user by email","timestamp":"2023-07-26 23:12:52"}
+{"level":"error","message":"Error getting user by email","timestamp":"2023-07-26 23:13:51"}
+{"level":"error","message":"Error getting user by email","timestamp":"2023-07-26 23:14:18"}
+{"level":"error","message":"Error getting user by email","timestamp":"2023-07-26 23:14:49"}
+{"level":"error","message":"Error getting user by ID","timestamp":"2023-07-26 23:30:09"}
+{"level":"error","message":"Error getting user by ID","timestamp":"2023-07-26 23:30:38"}
+{"level":"error","message":"Error getting user by ID","timestamp":"2023-07-26 23:31:04"}
+{"level":"error","message":"Error getting user by ID","timestamp":"2023-07-26 23:31:20"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:32:29"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:33:35"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:34:16"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:34:36"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:35:18"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:36:49"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:37:41"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:37:54"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:38:41"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:39:25"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:40:09"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:40:14"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:41:01"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:41:21"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:41:44"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:42:22"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:43:37"}
+{"level":"error","message":"Error updating user","timestamp":"2023-07-26 23:48:41"}
+{"level":"error","message":"Error updating user","timestamp":"2023-07-26 23:49:07"}
+{"level":"error","message":"Error updating user","timestamp":"2023-07-26 23:49:58"}
+{"level":"error","message":"Error updating user","timestamp":"2023-07-26 23:50:15"}
+{"level":"error","message":"Error updating user","timestamp":"2023-07-26 23:50:35"}
+{"level":"error","message":"Error updating user","timestamp":"2023-07-26 23:50:55"}
+{"level":"error","message":"Error updating user","timestamp":"2023-07-26 23:51:21"}

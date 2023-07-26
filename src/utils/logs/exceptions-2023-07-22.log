@@ -1,0 +1,264 @@
+2023-07-22 02:18:54 [ERROR]: uncaughtException: dotenv is not defined
+ReferenceError: dotenv is not defined
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\seeders.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+ReferenceError: dotenv is not defined
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\seeders.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+2023-07-22 02:28:38 [ERROR]: uncaughtException: action is not defined
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-22 02:30:12 [ERROR]: uncaughtException: action is not defined
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-22 02:30:39 [ERROR]: uncaughtException: action is not defined
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-22 02:32:30 [ERROR]: uncaughtException: action is not defined
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-22 02:33:35 [ERROR]: uncaughtException: Cannot access 'dotenv' before initialization
+ReferenceError: Cannot access 'dotenv' before initialization
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\config\database.js:6:1)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:1:56)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+ReferenceError: Cannot access 'dotenv' before initialization
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\config\database.js:6:1)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:1:56)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+2023-07-22 02:34:04 [ERROR]: uncaughtException: action is not defined
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-22 02:34:35 [ERROR]: uncaughtException: action is not defined
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-22 02:35:42 [ERROR]: uncaughtException: action is not defined
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-22 02:36:32 [ERROR]: uncaughtException: action is not defined
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-22 02:37:46 [ERROR]: uncaughtException: action is not defined
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-22 02:38:09 [ERROR]: uncaughtException: action is not defined
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-22 02:38:22 [ERROR]: uncaughtException: action is not defined
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-22 02:38:36 [ERROR]: uncaughtException: action is not defined
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-22 02:39:20 [ERROR]: uncaughtException: action is not defined
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-22 02:40:28 [ERROR]: uncaughtException: Cannot access 'mongoURI' before initialization
+ReferenceError: Cannot access 'mongoURI' before initialization
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\config\database.js:9:38)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:1:56)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+ReferenceError: Cannot access 'mongoURI' before initialization
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\config\database.js:9:38)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:1:56)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+2023-07-22 02:40:51 [ERROR]: uncaughtException: Cannot access 'mongoURI' before initialization
+ReferenceError: Cannot access 'mongoURI' before initialization
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\config\database.js:9:38)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:1:56)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+ReferenceError: Cannot access 'mongoURI' before initialization
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\config\database.js:9:38)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:1:56)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+2023-07-22 02:41:07 [ERROR]: uncaughtException: action is not defined
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-22 02:41:32 [ERROR]: uncaughtException: action is not defined
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:83:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:83:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-22 02:42:27 [ERROR]: uncaughtException: dotenv.config is not a function
+TypeError: dotenv.config is not a function
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:6:8)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+TypeError: dotenv.config is not a function
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:6:8)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+2023-07-22 02:43:15 [ERROR]: uncaughtException: action is not defined
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:82:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:82:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-22 02:43:32 [ERROR]: uncaughtException: action is not defined
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:82:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:82:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-22 02:44:12 [ERROR]: uncaughtException: action is not defined
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-22 02:46:01 [ERROR]: uncaughtException: action is not defined
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-22 02:46:20 [ERROR]: uncaughtException: action is not defined
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-22 02:46:39 [ERROR]: uncaughtException: action is not defined
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-22 02:47:11 [ERROR]: uncaughtException: action is not defined
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-22 02:47:54 [ERROR]: uncaughtException: action is not defined
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)

@@ -1,0 +1,1835 @@
+2023-07-26 22:06:53 [ERROR]: uncaughtException: action is not defined
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 22:10:09 [ERROR]: uncaughtException: action is not defined
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 22:12:41 [ERROR]: uncaughtException: action is not defined
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ReferenceError: action is not defined
+    at runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:80:56)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 22:13:02 [ERROR]: uncaughtException: Error en la creación o verificación de la colección
+Error: Error en la creación o verificación de la colección
+    at createCollectionIfNotExists (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:18:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:64:11)
+Error: Error en la creación o verificación de la colección
+    at createCollectionIfNotExists (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:18:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:64:11)
+2023-07-26 22:14:17 [ERROR]: uncaughtException: Error en la creación o verificación de la colección
+Error: Error en la creación o verificación de la colección
+    at createCollectionIfNotExists (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:18:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:64:11)
+Error: Error en la creación o verificación de la colección
+    at createCollectionIfNotExists (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:18:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:64:11)
+2023-07-26 22:14:47 [ERROR]: uncaughtException: Error en la creación o verificación de la colección
+Error: Error en la creación o verificación de la colección
+    at createCollectionIfNotExists (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:18:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:65:11)
+Error: Error en la creación o verificación de la colección
+    at createCollectionIfNotExists (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:18:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:65:11)
+2023-07-26 22:20:05 [ERROR]: uncaughtException: Error en la creación o verificación de la colección
+Error: Error en la creación o verificación de la colección
+    at createCollectionIfNotExists (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:18:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:65:11)
+Error: Error en la creación o verificación de la colección
+    at createCollectionIfNotExists (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:18:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async runMigration (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\migrations.js:65:11)
+2023-07-26 22:24:32 [ERROR]: uncaughtException: config.data.map is not a function
+TypeError: config.data.map is not a function
+    at runSeeders (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\seeders.js:66:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+TypeError: config.data.map is not a function
+    at runSeeders (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\seeders.js:66:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 22:24:52 [ERROR]: uncaughtException: config.data.map is not a function
+TypeError: config.data.map is not a function
+    at runSeeders (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\seeders.js:67:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+TypeError: config.data.map is not a function
+    at runSeeders (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\seeders.js:67:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 22:25:59 [ERROR]: uncaughtException: config.data.map is not a function
+TypeError: config.data.map is not a function
+    at runSeeders (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\seeders.js:67:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+TypeError: config.data.map is not a function
+    at runSeeders (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\scripts\seeders.js:67:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 22:34:08 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 22:40:12 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 22:40:58 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 22:41:43 [ERROR]: uncaughtException: Unexpected token '('
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\utils\userValidations.js:80
+      console.('Age must be between 18 and 100');
+              ^
+
+SyntaxError: Unexpected token '('
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\dtos\User.js:2:25)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\utils\userValidations.js:80
+      console.('Age must be between 18 and 100');
+              ^
+
+SyntaxError: Unexpected token '('
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\dtos\User.js:2:25)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+2023-07-26 22:46:04 [ERROR]: uncaughtException: Unexpected identifier
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:13
+      const formattedUsers = users.map(user => UserDTO.format(user));
+            ^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:2:21)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:13
+      const formattedUsers = users.map(user => UserDTO.format(user));
+            ^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:2:21)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+2023-07-26 22:46:19 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 22:46:54 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 22:48:09 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 22:48:32 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 22:50:32 [ERROR]: uncaughtException: logger is not defined
+ReferenceError: logger is not defined
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:2:21)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+ReferenceError: logger is not defined
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:2:21)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+2023-07-26 22:50:39 [ERROR]: uncaughtException: Missing initializer in const declaration
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:5
+const logger 
+      ^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:2:21)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:5
+const logger 
+      ^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:2:21)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+2023-07-26 22:50:45 [ERROR]: uncaughtException: The "id" argument must be of type string. Received undefined
+TypeError [ERR_INVALID_ARG_TYPE]: The "id" argument must be of type string. Received undefined
+    at new NodeError (node:internal/errors:393:5)
+    at validateString (node:internal/validators:163:11)
+    at Module.require (node:internal/modules/cjs/loader:1054:3)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:5:16)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+TypeError [ERR_INVALID_ARG_TYPE]: The "id" argument must be of type string. Received undefined
+    at new NodeError (node:internal/errors:393:5)
+    at validateString (node:internal/validators:163:11)
+    at Module.require (node:internal/modules/cjs/loader:1054:3)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:5:16)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-07-26 22:50:46 [ERROR]: uncaughtException: The "id" argument must be of type string. Received undefined
+TypeError [ERR_INVALID_ARG_TYPE]: The "id" argument must be of type string. Received undefined
+    at new NodeError (node:internal/errors:393:5)
+    at validateString (node:internal/validators:163:11)
+    at Module.require (node:internal/modules/cjs/loader:1054:3)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:5:16)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+TypeError [ERR_INVALID_ARG_TYPE]: The "id" argument must be of type string. Received undefined
+    at new NodeError (node:internal/errors:393:5)
+    at validateString (node:internal/validators:163:11)
+    at Module.require (node:internal/modules/cjs/loader:1054:3)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:5:16)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-07-26 22:50:56 [ERROR]: uncaughtException: Cannot find module '..'
+Require stack:
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\index.js
+Error: Cannot find module '..'
+Require stack:
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:5:16)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module '..'
+Require stack:
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:5:16)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-07-26 22:50:57 [ERROR]: uncaughtException: Cannot find module '../'
+Require stack:
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\index.js
+Error: Cannot find module '../'
+Require stack:
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:5:16)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module '../'
+Require stack:
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:5:16)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-07-26 22:51:00 [ERROR]: uncaughtException: Cannot find module '../..'
+Require stack:
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\index.js
+Error: Cannot find module '../..'
+Require stack:
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:5:16)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module '../..'
+Require stack:
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:5:16)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-07-26 22:51:04 [ERROR]: uncaughtException: Cannot find module '../../'
+Require stack:
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\index.js
+Error: Cannot find module '../../'
+Require stack:
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:5:16)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module '../../'
+Require stack:
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:5:16)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-07-26 22:51:10 [ERROR]: uncaughtException: Cannot find module '../../../'
+Require stack:
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\index.js
+Error: Cannot find module '../../../'
+Require stack:
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:5:16)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module '../../../'
+Require stack:
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:5:16)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-07-26 22:51:44 [ERROR]: uncaughtException: Invalid or unexpected token
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:13
+      logger.info('users.length)
+                  ^^^^^^^^^^^^^^
+
+SyntaxError: Invalid or unexpected token
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:2:21)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:13
+      logger.info('users.length)
+                  ^^^^^^^^^^^^^^
+
+SyntaxError: Invalid or unexpected token
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:2:21)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+2023-07-26 22:51:46 [ERROR]: uncaughtException: Invalid or unexpected token
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:13
+      logger.info('Usuariosusers.length)
+                  ^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Invalid or unexpected token
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:2:21)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:13
+      logger.info('Usuariosusers.length)
+                  ^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Invalid or unexpected token
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:2:21)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+2023-07-26 22:54:21 [ERROR]: uncaughtException: Invalid or unexpected token
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:16
+      logger.info('Usuarios que cumplen formato formattedUsers.length)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Invalid or unexpected token
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:2:21)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:16
+      logger.info('Usuarios que cumplen formato formattedUsers.length)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Invalid or unexpected token
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:2:21)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+2023-07-26 22:57:53 [ERROR]: uncaughtException: Unexpected token 'return'
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\dtos\User.js:37
+    return {
+    ^^^^^^
+
+SyntaxError: Unexpected token 'return'
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:4:17)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\dtos\User.js:37
+    return {
+    ^^^^^^
+
+SyntaxError: Unexpected token 'return'
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:4:17)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+2023-07-26 22:58:00 [ERROR]: uncaughtException: Unexpected token ')'
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\dtos\User.js:37
+    if()
+       ^
+
+SyntaxError: Unexpected token ')'
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:4:17)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\dtos\User.js:37
+    if()
+       ^
+
+SyntaxError: Unexpected token ')'
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:4:17)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+2023-07-26 22:58:19 [ERROR]: uncaughtException: Unexpected token ','
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\dtos\User.js:45
+  },
+   ^
+
+SyntaxError: Unexpected token ','
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:4:17)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\dtos\User.js:45
+  },
+   ^
+
+SyntaxError: Unexpected token ','
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:4:17)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+2023-07-26 22:58:45 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:03:30 [ERROR]: uncaughtException: Unexpected token ')'
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\dtos\User.js:36
+    console.log(user.)
+                     ^
+
+SyntaxError: Unexpected token ')'
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:4:17)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\dtos\User.js:36
+    console.log(user.)
+                     ^
+
+SyntaxError: Unexpected token ')'
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:4:17)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+2023-07-26 23:11:48 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getUserById (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:68:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getUserById (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:68:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:12:02 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getUserByEmail (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:50:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getUserByEmail (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:50:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:12:52 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getUserByEmail (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:50:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getUserByEmail (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:50:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:13:16 [ERROR]: uncaughtException: userValidations is not defined
+ReferenceError: userValidations is not defined
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:6:1)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:2:21)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+ReferenceError: userValidations is not defined
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:6:1)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:2:21)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+2023-07-26 23:13:23 [ERROR]: uncaughtException: Missing initializer in const declaration
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:6
+const userValidations
+      ^^^^^^^^^^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:2:21)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:6
+const userValidations
+      ^^^^^^^^^^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:2:21)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+2023-07-26 23:13:44 [ERROR]: uncaughtException: Cannot find module '../../utils/logger'
+Require stack:
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\index.js
+Error: Cannot find module '../../utils/logger'
+Require stack:
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:6:25)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module '../../utils/logger'
+Require stack:
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js
+- C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:6:25)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-07-26 23:13:51 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getUserByEmail (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:50:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getUserByEmail (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:50:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:14:18 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getUserByEmail (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:50:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getUserByEmail (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:50:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:14:49 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getUserByEmail (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:50:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getUserByEmail (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:50:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:22:03 [ERROR]: uncaughtException: missing ) after argument list
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\utils\userValidations.js:99
+    console.log(emailRegex.test(email);)
+                                     ^
+
+SyntaxError: missing ) after argument list
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\dtos\User.js:2:25)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\utils\userValidations.js:99
+    console.log(emailRegex.test(email);)
+                                     ^
+
+SyntaxError: missing ) after argument list
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\dtos\User.js:2:25)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+2023-07-26 23:22:26 [ERROR]: uncaughtException: missing ) after argument list
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\utils\userValidations.js:99
+    console.log(emailRegex.test(email);)
+                                     ^
+
+SyntaxError: missing ) after argument list
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\dtos\User.js:2:25)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\utils\userValidations.js:99
+    console.log(emailRegex.test(email);)
+                                     ^
+
+SyntaxError: missing ) after argument list
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\dtos\User.js:2:25)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+2023-07-26 23:22:28 [ERROR]: uncaughtException: missing ) after argument list
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\utils\userValidations.js:99
+    console.log(emailRegex.test(email);
+                                     ^
+
+SyntaxError: missing ) after argument list
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\dtos\User.js:2:25)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\utils\userValidations.js:99
+    console.log(emailRegex.test(email);
+                                     ^
+
+SyntaxError: missing ) after argument list
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\dtos\User.js:2:25)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+2023-07-26 23:24:03 [ERROR]: uncaughtException: Unexpected identifier
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\utils\userValidations.js:105
+  return email;
+         ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\dtos\User.js:2:25)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\utils\userValidations.js:105
+  return email;
+         ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\dtos\User.js:2:25)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+2023-07-26 23:27:35 [ERROR]: uncaughtException: createUser is not defined
+ReferenceError: createUser is not defined
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js:22:36)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js:3:20)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+ReferenceError: createUser is not defined
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js:22:36)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js:3:20)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+2023-07-26 23:27:41 [ERROR]: uncaughtException: createUser is not defined
+ReferenceError: createUser is not defined
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js:22:36)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js:3:20)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+ReferenceError: createUser is not defined
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js:22:36)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js:3:20)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+2023-07-26 23:27:44 [ERROR]: uncaughtException: createUser is not defined
+ReferenceError: createUser is not defined
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js:22:36)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js:3:20)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+ReferenceError: createUser is not defined
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js:22:36)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js:3:20)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+2023-07-26 23:27:51 [ERROR]: uncaughtException: createUser is not defined
+ReferenceError: createUser is not defined
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js:22:36)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js:3:20)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+ReferenceError: createUser is not defined
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js:22:36)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js:3:20)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+2023-07-26 23:27:55 [ERROR]: uncaughtException: createUser is not defined
+ReferenceError: createUser is not defined
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js:22:36)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js:3:20)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+ReferenceError: createUser is not defined
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js:22:36)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js:3:20)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+2023-07-26 23:28:02 [ERROR]: uncaughtException: createUser is not defined
+ReferenceError: createUser is not defined
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js:22:36)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js:3:20)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+ReferenceError: createUser is not defined
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js:22:36)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js:3:20)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+2023-07-26 23:28:04 [ERROR]: uncaughtException: createUser is not defined
+ReferenceError: createUser is not defined
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js:22:36)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js:3:20)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+ReferenceError: createUser is not defined
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js:22:36)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js:3:20)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+2023-07-26 23:28:05 [ERROR]: uncaughtException: createUser is not defined
+ReferenceError: createUser is not defined
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js:22:36)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js:3:20)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+ReferenceError: createUser is not defined
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js:22:36)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js:3:20)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+2023-07-26 23:28:08 [ERROR]: uncaughtException: createUser is not defined
+ReferenceError: createUser is not defined
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js:22:36)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js:3:20)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+ReferenceError: createUser is not defined
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js:22:36)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js:3:20)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+2023-07-26 23:28:10 [ERROR]: uncaughtException: createUser is not defined
+ReferenceError: createUser is not defined
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js:23:18)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js:3:20)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+ReferenceError: createUser is not defined
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js:23:18)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js:3:20)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+2023-07-26 23:29:46 [ERROR]: uncaughtException: createUser is not defined
+ReferenceError: createUser is not defined
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js:23:18)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js:3:20)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+ReferenceError: createUser is not defined
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\userRoutes.js:23:18)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\routes\index.js:3:20)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+2023-07-26 23:30:09 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:30:38 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:31:04 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:31:20 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:32:29 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:33:35 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:34:03 [ERROR]: uncaughtException: Unexpected token '.'
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\dtos\User.js:5
+  console.log()
+         ^
+
+SyntaxError: Unexpected token '.'
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:4:17)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\dtos\User.js:5
+  console.log()
+         ^
+
+SyntaxError: Unexpected token '.'
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:4:17)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+2023-07-26 23:34:16 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:34:36 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:34:49 [ERROR]: uncaughtException: Unexpected token ')'
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:105
+      console.log("111", req.params.)
+                                    ^
+
+SyntaxError: Unexpected token ')'
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:2:21)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:105
+      console.log("111", req.params.)
+                                    ^
+
+SyntaxError: Unexpected token ')'
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:2:21)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+2023-07-26 23:35:18 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:36:49 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:37:41 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:37:54 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:38:41 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:39:25 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:40:09 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:40:14 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:41:01 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:41:21 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:41:35 [ERROR]: uncaughtException: Identifier 'password' has already been declared
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\dtos\User.js:18
+      password
+      ^
+
+SyntaxError: Identifier 'password' has already been declared
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:4:17)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\dtos\User.js:18
+      password
+      ^
+
+SyntaxError: Identifier 'password' has already been declared
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:4:17)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+2023-07-26 23:41:44 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:42:19 [ERROR]: uncaughtException: await is only valid in async functions and the top level bodies of modules
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\utils\encrypt.js:11
+    const hashedPassword = await bcrypt.hash(password, SALT_ROUNDS);
+                           ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\dtos\User.js:1:22)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\utils\encrypt.js:11
+    const hashedPassword = await bcrypt.hash(password, SALT_ROUNDS);
+                           ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\dtos\User.js:1:22)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+2023-07-26 23:42:22 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:43:37 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at createUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:86:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:48:41 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at updateUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:104:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at updateUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:104:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:49:07 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at updateUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:105:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at updateUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:105:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:49:58 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at updateUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:105:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at updateUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:105:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:50:15 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at updateUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:105:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at updateUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:105:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:50:35 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at updateUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:105:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at updateUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:105:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:50:55 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at updateUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:105:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at updateUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:105:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:51:21 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at updateUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:105:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at updateUser (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:105:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-26 23:52:17 [ERROR]: uncaughtException: missing ) after argument list
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:117
+      const updatedUser = await User.findOneAndUpdate({ email: userEmail } userData, {
+                                                                         ^
+
+SyntaxError: missing ) after argument list
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:2:21)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:117
+      const updatedUser = await User.findOneAndUpdate({ email: userEmail } userData, {
+                                                                         ^
+
+SyntaxError: missing ) after argument list
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:2:21)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)

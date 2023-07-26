@@ -1,0 +1,428 @@
+2023-07-25 18:46:44 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:13:35)
+    at Layer.handle [as handle_request] (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\router\index.js:346:12)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:13:35)
+    at Layer.handle [as handle_request] (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\router\index.js:346:12)
+2023-07-25 18:48:51 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:13:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:13:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-25 18:50:08 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:13:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:13:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-25 18:50:52 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-25 18:51:24 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-25 18:51:55 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-25 18:52:16 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-25 18:52:30 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-25 18:53:46 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-25 18:54:50 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-25 18:56:34 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-25 18:57:03 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-25 18:57:46 [ERROR]: uncaughtException: Unexpected token ']'
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:13
+      console.log(users[])
+                        ^
+
+SyntaxError: Unexpected token ']'
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:2:21)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:13
+      console.log(users[])
+                        ^
+
+SyntaxError: Unexpected token ']'
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:2:21)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+2023-07-25 18:57:58 [ERROR]: uncaughtException: Identifier 'users' has already been declared
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:11
+      const users = await User.find({}).select('name email').lean();
+            ^
+
+SyntaxError: Identifier 'users' has already been declared
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:2:21)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\services\dataAcces\userService.js:11
+      const users = await User.find({}).select('name email').lean();
+            ^
+
+SyntaxError: Identifier 'users' has already been declared
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:2:21)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+2023-07-25 18:58:06 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-25 19:01:06 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-25 19:01:44 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-25 19:02:19 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-25 19:02:55 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-25 19:03:09 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-25 19:03:31 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-25 19:03:41 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-25 19:04:29 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-25 19:04:58 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-25 19:05:05 [ERROR]: uncaughtException: Unexpected token ')'
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\utils\userValidations.js:92
+    if (password.length < 6>) {
+                            ^
+
+SyntaxError: Unexpected token ')'
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\dtos\User.js:2:25)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\utils\userValidations.js:92
+    if (password.length < 6>) {
+                            ^
+
+SyntaxError: Unexpected token ')'
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\dtos\User.js:2:25)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+2023-07-25 19:05:08 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-25 19:05:29 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-25 19:06:01 [ERROR]: uncaughtException: No default engine was specified and no extension was provided.
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\node_modules\express\lib\response.js:1039:7)
+    at getAllUsers (C:\Users\Rafa\Desktop\DEFINITIVO\NODEJS\plantilla-nodejs-MVC\src\app\controllers\UserController.js:14:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)

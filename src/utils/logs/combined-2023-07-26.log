@@ -1,0 +1,914 @@
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:02:09"}
+{"level":"info","message":"La colección \"users\" ya existe, no se creó.","timestamp":"2023-07-26 22:02:09"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB cerrada","timestamp":"2023-07-26 22:02:09"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:04:54"}
+{"level":"info","message":"La colección \"users\" no existe, no se eliminó.","timestamp":"2023-07-26 22:04:54"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB cerrada","timestamp":"2023-07-26 22:04:54"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:05:22"}
+{"level":"info","message":"La colección \"users\" ya existe, no se creó.","timestamp":"2023-07-26 22:05:22"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB cerrada","timestamp":"2023-07-26 22:05:22"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:06:21"}
+{"level":"info","message":"La colección \"users\" no existe, no se eliminó.","timestamp":"2023-07-26 22:06:21"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB cerrada","timestamp":"2023-07-26 22:06:21"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:06:25"}
+{"level":"info","message":"La colección \"users\" ya existe, no se creó.","timestamp":"2023-07-26 22:06:25"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB cerrada","timestamp":"2023-07-26 22:06:25"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:06:53"}
+{"level":"error","message":"Error al crear o verificar la colección \"users\": collectionExists is not defined","timestamp":"2023-07-26 22:06:53"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:07:23"}
+{"level":"info","message":"La colección \"users\" ya existe, no se creó.","timestamp":"2023-07-26 22:07:23"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB cerrada","timestamp":"2023-07-26 22:07:23"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:07:40"}
+{"level":"info","message":"La colección \"users\" ya existe, no se creó.","timestamp":"2023-07-26 22:07:40"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB cerrada","timestamp":"2023-07-26 22:07:40"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:09:55"}
+{"level":"info","message":"La colección \"users\" ya existe, no se creó.","timestamp":"2023-07-26 22:09:55"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB cerrada","timestamp":"2023-07-26 22:09:55"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:10:05"}
+{"level":"info","message":"Colección \"users\" eliminada con éxito","timestamp":"2023-07-26 22:10:05"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB cerrada","timestamp":"2023-07-26 22:10:05"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:10:09"}
+{"level":"error","message":"Error al crear o verificar la colección \"users\": BSON field 'create.name' is an unknown field.","timestamp":"2023-07-26 22:10:09"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:12:41"}
+{"level":"error","message":"Error al crear o verificar la colección \"users\": BSON field 'create.name' is an unknown field.","timestamp":"2023-07-26 22:12:41"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:13:02"}
+{"level":"error","message":"Error al crear o verificar la colección \"users\": BSON field 'create.name' is an unknown field.","timestamp":"2023-07-26 22:13:02"}
+{"level":"error","message":"Error al ejecutar las migraciones \"up\": Error en la creación o verificación de la colección","timestamp":"2023-07-26 22:13:02"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:14:14"}
+{"level":"info","message":"La colección \"users\" no existe, no se eliminó.","timestamp":"2023-07-26 22:14:14"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB cerrada","timestamp":"2023-07-26 22:14:14"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:14:17"}
+{"level":"error","message":"Error al crear o verificar la colección \"users\": BSON field 'create.name' is an unknown field.","timestamp":"2023-07-26 22:14:17"}
+{"level":"error","message":"Error al ejecutar las migraciones \"up\": Error en la creación o verificación de la colección","timestamp":"2023-07-26 22:14:17"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:14:47"}
+{"level":"error","message":"Error al crear o verificar la colección \"users\": BSON field 'create.name' is an unknown field.","timestamp":"2023-07-26 22:14:47"}
+{"level":"error","message":"Error al ejecutar las migraciones \"up\": Error en la creación o verificación de la colección","timestamp":"2023-07-26 22:14:47"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:18:23"}
+{"level":"info","message":"La colección \"users\" no existe, no se eliminó.","timestamp":"2023-07-26 22:18:23"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB cerrada","timestamp":"2023-07-26 22:18:23"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:20:01"}
+{"level":"warn","message":"La acción de migración \"undefined\" no es válida para la colección \"users\".","timestamp":"2023-07-26 22:20:01"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB cerrada","timestamp":"2023-07-26 22:20:01"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:20:05"}
+{"level":"error","message":"Error al crear o verificar la colección \"users\": BSON field 'create.name' is an unknown field.","timestamp":"2023-07-26 22:20:05"}
+{"level":"error","message":"Error al ejecutar las migraciones \"up\": Error en la creación o verificación de la colección","timestamp":"2023-07-26 22:20:05"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:22:02"}
+{"level":"info","message":"Colección \"users\" creada con éxito","timestamp":"2023-07-26 22:22:02"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB cerrada","timestamp":"2023-07-26 22:22:02"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:23:58"}
+{"level":"warn","message":"La acción de seeder \"undefined\" no es válida para la colección \"users\".","timestamp":"2023-07-26 22:23:58"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB cerrada","timestamp":"2023-07-26 22:23:58"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:24:32"}
+{"level":"error","message":"Error al ejecutar las migraciones \"up\": config.data.map is not a function","timestamp":"2023-07-26 22:24:32"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:24:52"}
+{"level":"error","message":"Error al ejecutar las migraciones \"up\": config.data.map is not a function","timestamp":"2023-07-26 22:24:52"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:25:59"}
+{"level":"error","message":"Error al ejecutar las migraciones \"up\": config.data.map is not a function","timestamp":"2023-07-26 22:25:59"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico urna.nec.luctus@yahoo.edu creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico lorem.ipsum@outlook.edu creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico nonummy.fusce@outlook.couk creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico massa.non.ante@hotmail.org creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico eu.tellus@protonmail.edu creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico proin.dolor@yahoo.org creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico vitae.aliquet@yahoo.ca creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico vulputate@protonmail.ca creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico dolor.fusce@outlook.couk creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico feugiat@hotmail.couk creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico eget@hotmail.com creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico aliquam.eros@aol.com creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico urna@google.edu creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico sapien@outlook.net creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico et.magnis@hotmail.couk creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico maecenas.malesuada@google.ca creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico sed.eu.nibh@icloud.com creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico curabitur.sed@outlook.com creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico dui.nec@aol.edu creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico enim.gravida@aol.edu creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico semper.egestas.urna@google.couk creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico magnis.dis@protonmail.ca creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico gravida@google.edu creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico massa.rutrum.magna@aol.com creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico eget.lacus.mauris@hotmail.ca creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico tempor.diam.dictum@protonmail.org creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico pede.cum@aol.couk creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico libero.integer@hotmail.edu creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico lectus.justo.eu@aol.com creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico diam.sed@yahoo.couk creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico tincidunt@hotmail.com creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico tempor.augue@outlook.net creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico est.tempor@icloud.net creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico morbi.tristique@yahoo.ca creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico nulla@icloud.ca creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico arcu.aliquam@aol.edu creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico arcu@protonmail.org creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico dolor.sit@icloud.couk creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico lorem.semper@aol.couk creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico tempus.risus@yahoo.net creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico ipsum@aol.edu creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico fringilla.porttitor@aol.ca creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico aliquam.ornare@icloud.org creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico sit.amet.luctus@protonmail.couk creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico iaculis@outlook.com creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico nonummy.ac@protonmail.com creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico lacinia.vitae.sodales@google.net creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico faucibus.orci@google.edu creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico commodo.ipsum@hotmail.com creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico donec@hotmail.couk creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico id.blandit@outlook.com creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico sodales.nisi.magna@aol.net creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico odio.aliquam.vulputate@hotmail.com creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico aliquet.phasellus.fermentum@google.ca creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico pharetra.quisque@hotmail.net creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico tristique.aliquet.phasellus@aol.ca creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico aliquet.proin@icloud.ca creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico cras.eget@google.ca creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico metus.in.nec@hotmail.net creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico sociosqu.ad@hotmail.org creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico donec.egestas.aliquam@yahoo.net creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico arcu@google.couk creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico fermentum@yahoo.com creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico fermentum.metus@google.org creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico sit.amet.consectetuer@icloud.edu creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico nisl.quisque.fringilla@hotmail.com creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico odio.vel@icloud.ca creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico nec@outlook.edu creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico cursus.vestibulum.mauris@yahoo.ca creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico placerat@hotmail.ca creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico diam@icloud.ca creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico dolor.sit@yahoo.com creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico placerat@protonmail.couk creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico elit@hotmail.couk creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico fringilla.donec@protonmail.edu creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico orci.lacus@protonmail.edu creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico tellus.faucibus@yahoo.com creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico etiam.imperdiet.dictum@icloud.com creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico adipiscing@yahoo.com creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico nec@outlook.ca creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico tempus.non@icloud.edu creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico sed.dolor.fusce@google.couk creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico lacinia.at@yahoo.edu creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico elit.sed@icloud.net creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico donec.at.arcu@icloud.net creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico dictum.eu@aol.couk creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico nisl.sem@outlook.edu creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico aliquam.vulputate@outlook.com creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico eros@hotmail.net creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico eget.massa@icloud.edu creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico a.feugiat@icloud.couk creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico mi.tempor.lorem@icloud.couk creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico lorem.semper@yahoo.com creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico sem.ut@yahoo.net creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico enim.nec@hotmail.couk creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico at.libero.morbi@hotmail.ca creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico pretium.neque.morbi@google.couk creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico varius.ultrices@outlook.net creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico pharetra.quisque@protonmail.com creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Usuario con el correo electrónico quis.pede@outlook.com creado exitosamente","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB cerrada","timestamp":"2023-07-26 22:26:42"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:32:43"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"error","message":"Error al actualizar el usuario: MongoInvalidArgumentError: Update document requires atomic operators","timestamp":"2023-07-26 22:32:44"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB cerrada","timestamp":"2023-07-26 22:32:44"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico feugiat@hotmail.couk eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico lorem.ipsum@outlook.edu eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico tempus.risus@yahoo.net eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico urna.nec.luctus@yahoo.edu eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico nonummy.fusce@outlook.couk eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico massa.non.ante@hotmail.org eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico eu.tellus@protonmail.edu eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico proin.dolor@yahoo.org eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico vulputate@protonmail.ca eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico dolor.fusce@outlook.couk eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico aliquam.eros@aol.com eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico et.magnis@hotmail.couk eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico maecenas.malesuada@google.ca eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico sed.eu.nibh@icloud.com eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico curabitur.sed@outlook.com eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico dui.nec@aol.edu eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico enim.gravida@aol.edu eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico semper.egestas.urna@google.couk eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico gravida@google.edu eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico massa.rutrum.magna@aol.com eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico eget@hotmail.com eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico urna@google.edu eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico sapien@outlook.net eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico eget.lacus.mauris@hotmail.ca eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico tempor.diam.dictum@protonmail.org eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico tincidunt@hotmail.com eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico libero.integer@hotmail.edu eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico lectus.justo.eu@aol.com eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico cursus.vestibulum.mauris@yahoo.ca eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico pede.cum@aol.couk eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico diam.sed@yahoo.couk eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico morbi.tristique@yahoo.ca eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico arcu@protonmail.org eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico arcu.aliquam@aol.edu eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico pharetra.quisque@hotmail.net eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico dolor.sit@icloud.couk eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico vitae.aliquet@yahoo.ca eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico tempor.augue@outlook.net eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico fermentum.metus@google.org eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico donec.at.arcu@icloud.net eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico ipsum@aol.edu eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico lorem.semper@aol.couk eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico iaculis@outlook.com eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico fringilla.porttitor@aol.ca eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico aliquam.ornare@icloud.org eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico lacinia.vitae.sodales@google.net eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico nonummy.ac@protonmail.com eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico faucibus.orci@google.edu eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico commodo.ipsum@hotmail.com eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico donec@hotmail.couk eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico id.blandit@outlook.com eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico sodales.nisi.magna@aol.net eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico odio.aliquam.vulputate@hotmail.com eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico magnis.dis@protonmail.ca eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico nulla@icloud.ca eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico sociosqu.ad@hotmail.org eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico dictum.eu@aol.couk eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico cras.eget@google.ca eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico metus.in.nec@hotmail.net eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico donec.egestas.aliquam@yahoo.net eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico arcu@google.couk eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico nisl.quisque.fringilla@hotmail.com eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico sit.amet.luctus@protonmail.couk eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico fermentum@yahoo.com eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico odio.vel@icloud.ca eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico nec@outlook.edu eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico pharetra.quisque@protonmail.com eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico placerat@hotmail.ca eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico aliquet.proin@icloud.ca eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico at.libero.morbi@hotmail.ca eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico diam@icloud.ca eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico dolor.sit@yahoo.com eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico tristique.aliquet.phasellus@aol.ca eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico sed.dolor.fusce@google.couk eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico elit@hotmail.couk eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico fringilla.donec@protonmail.edu eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico orci.lacus@protonmail.edu eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico etiam.imperdiet.dictum@icloud.com eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico adipiscing@yahoo.com eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico nec@outlook.ca eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico nisl.sem@outlook.edu eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico sit.amet.consectetuer@icloud.edu eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico est.tempor@icloud.net eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico elit.sed@icloud.net eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico quis.pede@outlook.com eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico placerat@protonmail.couk eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico tempus.non@icloud.edu eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico aliquam.vulputate@outlook.com eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico eget.massa@icloud.edu eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico mi.tempor.lorem@icloud.couk eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico sem.ut@yahoo.net eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico tellus.faucibus@yahoo.com eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico enim.nec@hotmail.couk eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico pretium.neque.morbi@google.couk eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico a.feugiat@icloud.couk eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico varius.ultrices@outlook.net eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico eros@hotmail.net eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico lorem.semper@yahoo.com eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico aliquet.phasellus.fermentum@google.ca eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Usuario con el correo electrónico lacinia.at@yahoo.edu eliminado exitosamente","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB cerrada","timestamp":"2023-07-26 22:33:16"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:33:23"}
+{"level":"info","message":"Usuario con el correo electrónico vitae.aliquet@yahoo.ca creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico tempus.risus@yahoo.net creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico feugiat@hotmail.couk creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico eu.tellus@protonmail.edu creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico dolor.fusce@outlook.couk creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico urna.nec.luctus@yahoo.edu creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico nonummy.fusce@outlook.couk creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico massa.non.ante@hotmail.org creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico enim.gravida@aol.edu creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico eget@hotmail.com creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico vulputate@protonmail.ca creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico urna@google.edu creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico sapien@outlook.net creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico et.magnis@hotmail.couk creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico maecenas.malesuada@google.ca creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico sed.eu.nibh@icloud.com creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico curabitur.sed@outlook.com creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico semper.egestas.urna@google.couk creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico tempor.diam.dictum@protonmail.org creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico arcu@protonmail.org creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico magnis.dis@protonmail.ca creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico gravida@google.edu creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico massa.rutrum.magna@aol.com creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico lorem.semper@aol.couk creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico pede.cum@aol.couk creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico aliquam.eros@aol.com creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico dui.nec@aol.edu creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico libero.integer@hotmail.edu creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico cursus.vestibulum.mauris@yahoo.ca creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico lectus.justo.eu@aol.com creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico diam.sed@yahoo.couk creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico tempor.augue@outlook.net creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico est.tempor@icloud.net creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico morbi.tristique@yahoo.ca creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico nulla@icloud.ca creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico fermentum.metus@google.org creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico donec.at.arcu@icloud.net creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico arcu.aliquam@aol.edu creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico pharetra.quisque@hotmail.net creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico dolor.sit@icloud.couk creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico lorem.ipsum@outlook.edu creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico fringilla.porttitor@aol.ca creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico proin.dolor@yahoo.org creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico sit.amet.luctus@protonmail.couk creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico eget.lacus.mauris@hotmail.ca creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico nonummy.ac@protonmail.com creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico faucibus.orci@google.edu creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico tincidunt@hotmail.com creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico donec@hotmail.couk creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico aliquam.ornare@icloud.org creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico id.blandit@outlook.com creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico sodales.nisi.magna@aol.net creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico odio.aliquam.vulputate@hotmail.com creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico aliquet.phasellus.fermentum@google.ca creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico tristique.aliquet.phasellus@aol.ca creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico dictum.eu@aol.couk creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico cras.eget@google.ca creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico sociosqu.ad@hotmail.org creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico aliquet.proin@icloud.ca creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico metus.in.nec@hotmail.net creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico odio.vel@icloud.ca creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico nec@outlook.edu creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico pharetra.quisque@protonmail.com creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico placerat@hotmail.ca creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico iaculis@outlook.com creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico commodo.ipsum@hotmail.com creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico donec.egestas.aliquam@yahoo.net creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico arcu@google.couk creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico nisl.quisque.fringilla@hotmail.com creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico fermentum@yahoo.com creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico at.libero.morbi@hotmail.ca creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico sit.amet.consectetuer@icloud.edu creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico placerat@protonmail.couk creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico elit@hotmail.couk creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico tellus.faucibus@yahoo.com creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico ipsum@aol.edu creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico nisl.sem@outlook.edu creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico fringilla.donec@protonmail.edu creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico orci.lacus@protonmail.edu creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico etiam.imperdiet.dictum@icloud.com creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico adipiscing@yahoo.com creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico tempus.non@icloud.edu creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico sed.dolor.fusce@google.couk creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico lacinia.at@yahoo.edu creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico elit.sed@icloud.net creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico quis.pede@outlook.com creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico varius.ultrices@outlook.net creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico aliquam.vulputate@outlook.com creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico eros@hotmail.net creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico mi.tempor.lorem@icloud.couk creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico lorem.semper@yahoo.com creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico sem.ut@yahoo.net creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico enim.nec@hotmail.couk creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico lacinia.vitae.sodales@google.net creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico eget.massa@icloud.edu creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico a.feugiat@icloud.couk creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico pretium.neque.morbi@google.couk creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico dolor.sit@yahoo.com creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico nec@outlook.ca creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Usuario con el correo electrónico diam@icloud.ca creado exitosamente","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB cerrada","timestamp":"2023-07-26 22:33:24"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:34:00"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:34:00"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-26 22:34:08"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:39:59"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:39:59"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:40:11"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:40:11"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-26 22:40:12"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:40:21"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:40:21"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:40:23"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:40:23"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:40:48"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:40:48"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:40:58"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:40:58"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-26 22:40:58"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:41:46"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:41:46"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:44:13"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:44:13"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:44:16"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:44:16"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:44:22"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:44:22"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:44:33"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:44:33"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:44:51"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:44:51"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:44:57"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:44:57"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:45:54"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:45:54"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:46:03"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:46:03"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:46:07"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:46:07"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:46:19"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:46:19"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-26 22:46:19"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:46:39"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:46:39"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:46:52"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:46:52"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-26 22:46:54"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:48:06"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:48:06"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-26 22:48:09"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:48:20"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:48:20"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-26 22:48:32"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:49:35"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:49:35"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:49:39"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:49:39"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:49:42"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:49:42"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:50:42"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:50:42"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:50:50"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:50:50"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:51:22"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:51:22"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:51:27"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:51:27"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:51:31"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:51:31"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:51:34"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:51:34"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:51:39"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:51:39"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:51:41"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:51:41"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:51:53"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:51:53"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:52:01"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:52:01"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:52:07"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:52:07"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:52:10"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:52:10"}
+{"level":"info","message":"Usuarios leídos","timestamp":"2023-07-26 22:52:12"}
+{"level":"info","message":"Usuarios que cumplen formato","timestamp":"2023-07-26 22:52:12"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:52:43"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:52:43"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:52:46"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:52:46"}
+{"level":"info","message":"Usuarios leídos","timestamp":"2023-07-26 22:52:48"}
+{"level":"info","message":"Usuarios que cumplen formato","timestamp":"2023-07-26 22:52:48"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:53:18"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:53:18"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:53:52"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:53:52"}
+{"level":"info","message":"Usuarios leídos100","timestamp":"2023-07-26 22:53:56"}
+{"level":"info","message":"Usuarios que cumplen formato","timestamp":"2023-07-26 22:53:56"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:54:15"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:54:15"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:54:25"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:54:25"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:55:07"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:55:07"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:55:33"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:55:33"}
+{"level":"info","message":"Usuarios leídos: 100","timestamp":"2023-07-26 22:56:27"}
+{"level":"info","message":"Usuarios que cumplen formato: 100","timestamp":"2023-07-26 22:56:27"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:56:44"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:56:44"}
+{"level":"info","message":"Usuarios leídos: 100","timestamp":"2023-07-26 22:56:45"}
+{"level":"info","message":"Usuarios que cumplen formato: 100","timestamp":"2023-07-26 22:56:45"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:57:47"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:57:47"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:57:54"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:57:54"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:58:05"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:58:05"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:58:18"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:58:18"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:58:21"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:58:21"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:58:25"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:58:25"}
+{"level":"info","message":"Usuarios leídos: 100","timestamp":"2023-07-26 22:58:25"}
+{"level":"info","message":"Usuarios que cumplen formato: 100","timestamp":"2023-07-26 22:58:25"}
+{"level":"info","message":"Usuarios leídos: 100","timestamp":"2023-07-26 22:58:30"}
+{"level":"info","message":"Usuarios que cumplen formato: 100","timestamp":"2023-07-26 22:58:30"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:58:41"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:58:41"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:58:43"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:58:43"}
+{"level":"info","message":"Usuarios leídos: 100","timestamp":"2023-07-26 22:58:45"}
+{"level":"error","message":"Error getting all users","timestamp":"2023-07-26 22:58:45"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:58:56"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:58:56"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 22:58:59"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 22:58:59"}
+{"level":"info","message":"Usuarios leídos: 100","timestamp":"2023-07-26 22:59:02"}
+{"level":"info","message":"Usuarios que cumplen formato: 100","timestamp":"2023-07-26 22:59:02"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:02:08"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:02:08"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:02:11"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:02:11"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:03:22"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:03:22"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:03:23"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:03:23"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:03:27"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:03:27"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:03:32"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:03:32"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:03:38"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:03:38"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:03:40"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:03:40"}
+{"level":"info","message":"Usuarios leídos: 100","timestamp":"2023-07-26 23:03:41"}
+{"level":"info","message":"Usuarios que cumplen formato: 100","timestamp":"2023-07-26 23:03:41"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:05:25"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:05:25"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:05:35"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:05:35"}
+{"level":"info","message":"Usuarios leídos: 100","timestamp":"2023-07-26 23:05:36"}
+{"level":"info","message":"Usuarios que cumplen formato: 100","timestamp":"2023-07-26 23:05:36"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:09:27"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:09:27"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:09:30"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:09:30"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:10:39"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:10:39"}
+{"level":"error","message":"Error getting user by ID","timestamp":"2023-07-26 23:11:48"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:12:01"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:12:01"}
+{"level":"error","message":"Error getting user by email","timestamp":"2023-07-26 23:12:02"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:12:40"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:12:40"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:12:41"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:12:41"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:12:45"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:12:45"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:12:47"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:12:47"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:12:52"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:12:52"}
+{"level":"error","message":"Error getting user by email","timestamp":"2023-07-26 23:12:52"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:13:31"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:13:31"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:13:47"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:13:47"}
+{"level":"error","message":"Error getting user by email","timestamp":"2023-07-26 23:13:51"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:14:15"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:14:15"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:14:16"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:14:16"}
+{"level":"error","message":"Error getting user by email","timestamp":"2023-07-26 23:14:18"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:14:38"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:14:38"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:14:48"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:14:48"}
+{"level":"error","message":"Error getting user by email","timestamp":"2023-07-26 23:14:49"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:16:19"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:16:19"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:16:23"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:16:23"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:17:52"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:17:52"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:18:08"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:18:08"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:18:11"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:18:11"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:18:18"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:18:18"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:19:09"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:19:09"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:21:43"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:21:43"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:22:32"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:22:32"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:23:15"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:23:15"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:23:19"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:23:19"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:23:21"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:23:21"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:23:41"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:23:41"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:23:44"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:23:44"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:23:56"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:23:56"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:24:00"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:24:00"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:24:07"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:24:07"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:24:09"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:24:09"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:24:14"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:24:14"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:24:20"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:24:20"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:24:23"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:24:23"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:24:27"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:24:27"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:24:32"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:24:32"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:24:36"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:24:36"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:30:04"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:30:04"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:30:06"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:30:06"}
+{"level":"error","message":"Error getting user by ID","timestamp":"2023-07-26 23:30:09"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:30:29"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:30:29"}
+{"level":"error","message":"Error getting user by ID","timestamp":"2023-07-26 23:30:38"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:30:59"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:30:59"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:31:02"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:31:02"}
+{"level":"error","message":"Error getting user by ID","timestamp":"2023-07-26 23:31:04"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:31:12"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:31:12"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:31:19"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:31:19"}
+{"level":"error","message":"Error getting user by ID","timestamp":"2023-07-26 23:31:20"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:32:28"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:32:28"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:32:29"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:33:16"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:33:16"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:33:18"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:33:18"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:33:20"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:33:20"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:33:25"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:33:25"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:33:27"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:33:27"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:33:29"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:33:29"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:33:32"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:33:32"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:33:34"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:33:34"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:33:35"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:34:10"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:34:10"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:34:12"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:34:12"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:34:16"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:34:16"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:34:16"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:34:35"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:34:35"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:34:36"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:34:47"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:34:47"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:35:17"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:35:17"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:35:18"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:36:40"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:36:40"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:36:44"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:36:44"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:36:46"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:36:46"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:36:48"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:36:48"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:36:49"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:37:37"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:37:37"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:37:41"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:37:41"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:37:41"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:37:54"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:37:54"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:37:54"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:38:27"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:38:27"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:38:28"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:38:28"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:38:30"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:38:30"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:38:33"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:38:33"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:38:41"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:39:20"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:39:22"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:39:22"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:39:25"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:40:03"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:40:03"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:40:06"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:40:06"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:40:08"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:40:08"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:40:09"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:40:10"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:40:10"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:40:14"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:40:50"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:40:50"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:40:55"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:40:55"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:41:01"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:41:19"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:41:19"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:41:21"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:41:43"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:41:43"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:41:44"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:42:21"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:42:21"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:42:22"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:43:35"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:43:35"}
+{"level":"error","message":"Error creating user","timestamp":"2023-07-26 23:43:37"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:44:31"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:44:31"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:45:04"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:45:04"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:45:10"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:45:10"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:45:15"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:45:15"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:45:17"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:45:17"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:45:19"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:45:19"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:45:21"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:45:21"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:46:32"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:46:32"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:46:37"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:46:37"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:46:53"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:46:54"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:46:55"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:46:55"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:46:59"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:46:59"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:47:10"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:47:10"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:47:13"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:47:13"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:47:17"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:47:18"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:47:25"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:47:25"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:48:17"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:48:17"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:48:21"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:48:21"}
+{"level":"error","message":"Error updating user","timestamp":"2023-07-26 23:48:41"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:49:02"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:49:03"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:49:04"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:49:04"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:49:06"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:49:06"}
+{"level":"error","message":"Error updating user","timestamp":"2023-07-26 23:49:07"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:49:24"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:49:24"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:49:53"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:49:53"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:49:56"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:49:56"}
+{"level":"error","message":"Error updating user","timestamp":"2023-07-26 23:49:58"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:50:07"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:50:07"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:50:11"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:50:12"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:50:13"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:50:13"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:50:15"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:50:15"}
+{"level":"error","message":"Error updating user","timestamp":"2023-07-26 23:50:15"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:50:23"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:50:24"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:50:26"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:50:26"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:50:27"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:50:27"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:50:34"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:50:34"}
+{"level":"error","message":"Error updating user","timestamp":"2023-07-26 23:50:35"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:50:43"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:50:43"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:50:55"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:50:55"}
+{"level":"error","message":"Error updating user","timestamp":"2023-07-26 23:50:55"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:51:16"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:51:16"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:51:19"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:51:19"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:51:20"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:51:20"}
+{"level":"error","message":"Error updating user","timestamp":"2023-07-26 23:51:21"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:52:19"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:52:19"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-26 23:52:26"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-26 23:52:26"}

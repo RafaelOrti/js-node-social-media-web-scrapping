@@ -1,0 +1,20 @@
+# Configuración de la base de datos
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=mydatabase
+DB_USER=myuser
+DB_PASSWORD=mypassword
+
+# Configuración del servidor
+PORT=3000
+
+# Clave secreta para la generación de tokens JWT
+JWT_SECRET=mysecretkey
+
+# Configuración del servicio de correo electrónico
+SMTP_HOST=smtp.example.com
+SMTP_PORT=587
+SMTP_USER=your-email@example.com
+SMTP_PASSWORD=your-password
+
+API_KEY= 'myapikey'

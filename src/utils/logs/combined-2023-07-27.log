@@ -1,0 +1,6 @@
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-27 00:01:59"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-27 00:01:59"}
+{"level":"info","message":"Server is running and listening on port http://localhost:3000","timestamp":"2023-07-27 00:04:36"}
+{"level":"info","message":"Conexión a la base de datos de MongoDB establecida","timestamp":"2023-07-27 00:04:36"}
+{"level":"info","message":"Usuarios leídos: 100","timestamp":"2023-07-27 00:04:38"}
+{"level":"info","message":"Usuarios que cumplen formato: 100","timestamp":"2023-07-27 00:04:39"}

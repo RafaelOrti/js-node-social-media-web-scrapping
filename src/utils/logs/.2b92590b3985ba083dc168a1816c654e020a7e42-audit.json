@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 5
+    },
+    "auditLog": "C:\\Users\\Rafa\\Desktop\\DEFINITIVO\\NODEJS\\plantilla-nodejs-MVC\\src\\utils\\logs\\.2b92590b3985ba083dc168a1816c654e020a7e42-audit.json",
+    "files": [
+        {
+            "date": 1689985122280,
+            "name": "C:\\Users\\Rafa\\Desktop\\DEFINITIVO\\NODEJS\\plantilla-nodejs-MVC\\src\\utils\\logs\\combined-2023-07-22.log",
+            "hash": "4eb42a30712a0f5cfcd9b4a5564b535719efe135a4d8f465048b8b0f80ab6578"
+        },
+        {
+            "date": 1690228643797,
+            "name": "C:\\Users\\Rafa\\Desktop\\DEFINITIVO\\NODEJS\\plantilla-nodejs-MVC\\src\\utils\\logs\\combined-2023-07-24.log",
+            "hash": "ba2f5858dea189d7ee1dffff672bed70e1d2fdc053595ee3c69716dfc04c3ef9"
+        },
+        {
+            "date": 1690303555309,
+            "name": "C:\\Users\\Rafa\\Desktop\\DEFINITIVO\\NODEJS\\plantilla-nodejs-MVC\\src\\utils\\logs\\combined-2023-07-25.log",
+            "hash": "469344a0e8a6925e8fd7567a80c464121c92c36a37ae95334818b76fa1ed11ae"
+        },
+        {
+            "date": 1690401729617,
+            "name": "C:\\Users\\Rafa\\Desktop\\DEFINITIVO\\NODEJS\\plantilla-nodejs-MVC\\src\\utils\\logs\\combined-2023-07-26.log",
+            "hash": "9693848c94247185073ad210d8ff26e476ee9a5081c60d855c22d440aa7e00a5"
+        },
+        {
+            "date": 1690408919187,
+            "name": "C:\\Users\\Rafa\\Desktop\\DEFINITIVO\\NODEJS\\plantilla-nodejs-MVC\\src\\utils\\logs\\combined-2023-07-27.log",
+            "hash": "d29ca9cb7a24553da4b35f819f28c8a5857d450480764b89a25b46d295621939"
+        }
+    ],
+    "hashType": "sha256"
+}
